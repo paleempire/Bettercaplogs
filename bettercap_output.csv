@@ -1,14 +1,14 @@
 IP Address,MAC Address,Manufacturer,Device Name,OS Fingerprint
-192.168.1.72,10:7c:61:3e:91:b3.,na,na,na
-192.168.1.120,00:15:5d:01:58:0c,Microsoft,Corporation,na
-192.168.1.111,00:15:5d:01:58:06,Microsoft,Corporation,na
 192.168.1.160,e6:66:e3:71:44:54.,na,na,na
-192.168.1.247,28:ea:0b:ac:b6:f1.,na,na,na
 192.168.1.15,74:90:bc:a0:08:1d.,na,na,na
-192.168.1.121,00:15:5d:01:58:0d,Microsoft,Corporation,na
-192.168.1.128,00:15:5d:01:58:15,Microsoft,Corporation,na
+192.168.1.111,00:15:5d:01:58:06,Microsoft,Corporation,na
 192.168.1.213,6c:a1:00:55:88:9b,Intel,Corporate,na
+192.168.1.128,00:15:5d:01:58:15,Microsoft,Corporation,na
+192.168.1.247,XAURORA.lan.,na,na,na
+192.168.1.72,10:7c:61:3e:91:b3.,na,na,na
 192.168.1.159,48:b0:2d:08:29:e6,NVIDIA,Corporation,na
+192.168.1.120,00:15:5d:01:58:0c,Microsoft,Corporation,na
+192.168.1.121,00:15:5d:01:58:0d,Microsoft,Corporation,na
 192.168.1.127,00:15:5d:01:58:14,eth0,na,na
 192.168.1.254,08:c7:f5:93:cb:d9,gateway,na,na
 192.168.1.15,74:90:bc:a0:08:1d,Boost2.lan.,na,na
@@ -17,7 +17,7 @@ IP Address,MAC Address,Manufacturer,Device Name,OS Fingerprint
 192.168.1.120,00:15:5d:01:58:0c,SubZero.lan.,na,na
 192.168.1.121,00:15:5d:01:58:0d,Rocco.lan.,na,na
 192.168.1.128,00:15:5d:01:58:15,Hacker.lan.,na,na
-192.168.1.159,48:b0:2d:08:29:e6,NVIDIA,na,na
+192.168.1.159,48:b0:2d:08:29:e6,Android.local.,na,na
 192.168.1.160,e6:66:e3:71:44:54,iPhone.lan.,na,na
 192.168.1.213,6c:a1:00:55:88:9b,DESKTOP-FOT8J47.lan.,na,na
 192.168.1.247,28:ea:0b:ac:b6:f1,XAURORA.lan.,na,na
